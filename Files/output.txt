@@ -1,0 +1,10 @@
+Check... CheckI like coding!
+I like coding!
+Eugene
+Squidward
+Spongebob
+ Patrick{"name": "Spongebob", "age": 30, "job": "cook"}{
+    "name": "Spongebob",
+    "age": 30,
+    "job": "cook"
+}
