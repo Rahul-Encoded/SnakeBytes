@@ -35,6 +35,10 @@ The repository is organized into categories and subcategories for easy navigatio
 - **Linked Lists, Stacks, and Queues** (`58_LinkedList.ipynb`, `60_stacknQ.ipynb`).
 - **Trees and Binary Search Trees** (`61_trees.ipynb`).
 - **Hash Maps and Collision Resolution from scratch in python itself** (`59_hashmap.ipynb`).
+- More to Come: Graphs, Dynamic Programming techniques, including top-down and bottom-up approaches, tabular methods, and more. ✨
+
+### Libraries 📚
+- Numpy, Pandas, Matplotlib, seaborn, etc.
 
 ### Bonus Features 🎉
 - **Caesar Cipher Implementation:** Dive into cryptography basics.
