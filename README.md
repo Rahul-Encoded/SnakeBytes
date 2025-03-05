@@ -1,5 +1,3 @@
----
-
 # SnakeBytes: Journaling the Journey of Learning Python, Bit by Bit, Byte by Byte 🐍
 
 Welcome to **SnakeBytes**, a thoughtfully curated collection of Python notebooks that chronicles the journey of mastering Python programming. The repository is an evolving archive, growing with each concept learned, each problem tackled, and each byte of knowledge gained.
