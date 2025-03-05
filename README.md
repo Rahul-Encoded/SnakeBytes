@@ -53,10 +53,6 @@ While this project is primarily a personal learning journal, contributions are w
 
 Simply fork the repository, make your changes, and submit a pull request.
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 Feel free to customize this draft further to align it with your specific goals for the repository! 😊
